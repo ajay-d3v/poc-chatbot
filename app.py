@@ -2,6 +2,7 @@ import streamlit as st
 from modules.data_processing import process_uploaded_files
 from modules.search import get_answer
 
+
 # Initialize Streamlit App
 st.title("AI Chat with PDF Knowledge Base")
 
